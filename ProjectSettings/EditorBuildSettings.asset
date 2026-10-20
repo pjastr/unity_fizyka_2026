@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/01_Masa.unity
+    guid: 77ac7e3422436c649b82b7c4e0c8dd89
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/02_LinearDamping.unity
+    guid: 20051254121544d4582a84e65355bb8e
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/03_AngularDamping.unity
+    guid: 48c29e3587b86db4aae6e08bb43b7b39
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/04_Gravity_Kinematic_Static.unity
+    guid: fb0628d8ea9575e4e960fba2a67d01a9
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/05_AddForce_ForceMode.unity
+    guid: 9cecc4dad84098849b193fcd19f17004
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/06_AddTorque_ForceMode.unity
+    guid: c0b2b762a776c5a42b131fad9e82513c
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/07_Collidery.unity
+    guid: 2042c3cf2d4bbe540b0a31319f58b3eb
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/08_PhysicsMaterial.unity
+    guid: 4633a801f83c8634e9187f569e3019d2
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/09_OnCollision.unity
+    guid: 686c575904de38a4891045c01ec52b85
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/10_Triggery.unity
+    guid: c1dd1868bd8dab847aae920fc94d70d2
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/11_CollisionDetection.unity
+    guid: df81103192c1e2349be70b75c5f87292
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/12_Interpolate.unity
+    guid: c0826d6b98594f44aa66e32df8d56379
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/13_Constraints.unity
+    guid: b39a55ca2b7238a48aee8007868f4a3c
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/14_Sleeping.unity
+    guid: a2c1a0d4edfe47541a35ad2f2ccd7616
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/15_Velocity_vs_VelocityChange.unity
+    guid: 8db846d605e0d1f459ca657b1ed74b25
+  - enabled: 1
+    path: Assets/Fizyka/Scenes/16_CharacterController.unity
+    guid: b6a7c61a1ea073a4b8cc0e2ed4888e20
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
